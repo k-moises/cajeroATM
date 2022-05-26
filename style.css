@@ -1,0 +1,55 @@
+body{
+    background-color: #F4F6F6;
+}
+
+.left_h2{
+    margin-left: 60px;
+}
+.margen{
+    margin-top: 100px;
+    margin-left: 40%;
+    
+    
+}
+
+.padding_sesion{
+    padding: 5px;
+}
+.margen_label{
+    margin:5px
+}
+
+.boton_sesion{
+    margin-left: 100px;
+}
+
+.margen_cliente{
+    margin-top: 10px;
+    margin-left: 100px;
+}
+
+.imagen_enlace{
+    width: 50px;
+    height: 50px;
+}
+
+.div_enlace{
+    margin-top: 100px;
+    margin-left: 40%;
+}
+
+.margen_div_enlace{
+    margin:5px
+
+}
+
+.margen_solido{
+    border: 1px solid black;
+    width: 220px;
+    padding: 5px;
+}
+
+.size{
+    width: 50px;
+    height: 500px;
+}
